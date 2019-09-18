@@ -6,3 +6,12 @@
   text-decoration: line-trought;
   color: #777;
 }
+
+.tableActions {
+  width: 50px;
+
+}
+
+.todoForm {
+  padding-bottom: 60px;
+}
